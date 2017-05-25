@@ -1,0 +1,6 @@
+C:\Unit Testing\midterm\midterm\bin\Debug\midterm.exe.config
+C:\Unit Testing\midterm\midterm\bin\Debug\midterm.exe
+C:\Unit Testing\midterm\midterm\bin\Debug\midterm.pdb
+C:\Unit Testing\midterm\midterm\obj\Debug\midterm.csprojResolveAssemblyReference.cache
+C:\Unit Testing\midterm\midterm\obj\Debug\midterm.exe
+C:\Unit Testing\midterm\midterm\obj\Debug\midterm.pdb

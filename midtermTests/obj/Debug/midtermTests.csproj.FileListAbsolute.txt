@@ -1,0 +1,8 @@
+C:\Unit Testing\midterm\midtermTests\bin\Debug\midtermTests.dll
+C:\Unit Testing\midterm\midtermTests\bin\Debug\midtermTests.pdb
+C:\Unit Testing\midterm\midtermTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Unit Testing\midterm\midtermTests\bin\Debug\midterm.exe
+C:\Unit Testing\midterm\midtermTests\bin\Debug\midterm.pdb
+C:\Unit Testing\midterm\midtermTests\obj\Debug\midtermTests.csprojResolveAssemblyReference.cache
+C:\Unit Testing\midterm\midtermTests\obj\Debug\midtermTests.dll
+C:\Unit Testing\midterm\midtermTests\obj\Debug\midtermTests.pdb
